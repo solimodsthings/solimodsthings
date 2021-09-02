@@ -7,5 +7,5 @@ I also maintain the following mods:
 * [More Classes Mod](https://github.com/solimodsthings/MoreClassesMod) (Now on Steam!)
 * [Fallen Allies](https://github.com/solimodsthings/FallenAlliesMod) (Now on Steam!)
 * [Passive Experience Bonus](https://github.com/solimodsthings/PassiveExperienceBonus) (Now on Steam!)
-* [Find Command](https://github.com/solimodsthings/FindMod)
+* [Find Command](https://github.com/solimodsthings/FindMod) (Now on Steam!)
 * [Origin Story](https://github.com/solimodsthings/BackstoriesMod)
